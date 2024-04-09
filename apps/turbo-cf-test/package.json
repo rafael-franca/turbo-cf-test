@@ -33,6 +33,6 @@
     "wrangler": "^3.48.0"
   },
   "engines": {
-    "node": ">=21"
+    "node": "20.x"
   }
 }
